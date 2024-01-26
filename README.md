@@ -1,5 +1,5 @@
 # Parrallel-Computing
-## This Link Library is written by another person, but I wish to expand it and update it along my own journey
+** This Link Library is written by another person, but I wish to expand it and update it along my own journey **
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/134823775-cdb8e082-2f8a-4b72-a7c9-f29554ce1e7b.png">
   <br />
