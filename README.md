@@ -1,5 +1,14 @@
 # Sweden
  - [FooCafe Malmö](https://foocafe.org/events)
+ - [Game Lab MAU](https://games.mau.se/)
+ - [FINTECH 2024](https://stockholmfintechweek.com/?utm_source=google&utm_medium=cpc&utm_campaign=Baltikum&utm_id=2024&utm_term=Stockholm%20fintech%20week&utm_content=generic&gclid=Cj0KCQiAwvKtBhDrARIsAJj-kTgQ2SJladk5_MuVZ-9Em9VeLioTAc6c3W2_zEDcv0-Y5Cx0rjpkzH8aAieIEALw_wcB)
+
+# Competative Programming
+- [LeetCode](https://leetcode.com/)
+- [LeetCode Solutions](https://github.com/qiyuangong/leetcode/tree/master)
+- [NeetCode](https://neetcode.io/practice)
+- [Online Judge](https://onlinejudge.org/)
+
 # IOT
 **Open Course for IoT**
 - [Canvas Page](https://lnu-ftk.instructure.com/courses/255)
