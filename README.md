@@ -5,7 +5,7 @@
 - [Canvas Page](https://lnu-ftk.instructure.com/courses/255)
 - [@lnu-iot in HackMD ](https://hackmd.io/@lnu-iot)https://hackmd.io/@lnu-iot
 
-#Math
+# Math
 - [Khan academy](https://www.khanacademy.org/math)
 
 # Machine Learning
