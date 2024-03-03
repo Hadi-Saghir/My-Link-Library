@@ -35,7 +35,7 @@
 - [Corsera Featured Articles on Certificates in IT and Network ](https://www.coursera.org/articles/category/networks-and-security)
 
 # Good YouTube Videos
-- [LaTeX on VSCode](https://www.youtube.com/watch?v=4lyHIQl4VM8&ab_channel=FedericoTartarini)https://www.youtube.com/watch?v=4lyHIQl4VM8&ab_channel=FedericoTartarini
+- [LaTeX on VSCode](https://www.youtube.com/watch?v=4lyHIQl4VM8&ab_channel=FedericoTartarini)
 - [IT Road Map Network Chuck](https://www.youtube.com/watch?v=uTAaFExLgwQ&t=285s&ab_channel=NetworkChuck)
 
 
