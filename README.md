@@ -48,7 +48,8 @@
 
 # Local Hosting
 - [Fireships's PI versus AWS ](https://www.youtube.com/watch?v=QdHvS0D1zAI&t=251s)
-- 
+
+
 # IT
 - [CompTIA A+](https://www.comptia.org/certifications/a)
 - [CompTIA Security+]([https://www.comptia.org/certifications/a](https://www.coursera.org/articles/what-is-the-comptia-security-plus-certification?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQiAwvKtBhDrARIsAJj-kTiXt6rIzL1lwK8dTqSk3qy8jbg7_Pzfn7RA760qsqcfBNoQ6oOFs8caAiZYEALw_wcB))
@@ -67,7 +68,8 @@
 
 # Fun projects
 - [Modern Day Record Player Tutorial (RFID, Spotify API, Python, and Raspberry Pi)](https://www.youtube.com/watch?v=-jGWjFR936o)
-- 
+
+
 # Useful Tools Online
 - [PDF Summary](https://smallpdf.com/ai-pdf)https://smallpdf.com/ai-pdf
 - [OverLeaf - LaTeX online editor](https://www.overleaf.com/)https://www.overleaf.com/
