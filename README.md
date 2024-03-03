@@ -23,6 +23,8 @@
 - [English Corpora](https://www.english-corpora.org//)
 - 
 
+# Data Science
+- [Eco Modeling - Jupyter Notebooks from SMU](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/tree/main)
 # Parrallel Computing
 - [Parrallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
 
