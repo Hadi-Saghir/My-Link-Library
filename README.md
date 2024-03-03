@@ -42,4 +42,4 @@
 # Useful Tools Online
 - [PDF Summary](https://smallpdf.com/ai-pdf)https://smallpdf.com/ai-pdf
 - [OverLeaf - LaTeX online editor](https://www.overleaf.com/)https://www.overleaf.com/
-- [Notes](https://anteckning.nu/)https://anteckning.nu/ or [Notebook](https://www.anteckningsblock.nu/)https://www.anteckningsblock.nu/
+- [Notes](https://anteckning.nu/) or [Notebook](https://www.anteckningsblock.nu/)
